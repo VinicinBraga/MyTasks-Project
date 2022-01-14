@@ -18,7 +18,6 @@ const TaskDetails = () => {
       </div>
       <div className="task-details-container">
         <h2>{params.taskTitle}</h2>
-        <h3>Hour:{}</h3>
       </div>
     </>
   );
